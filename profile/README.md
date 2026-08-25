@@ -1,1 +1,1 @@
-<img width="685" height="305" alt="image" src="https://github.com/TeamProcess11/.github/raw/main/Here.png" />
+<img alt="HERE" src="https://github.com/TeamProcess11/.github/raw/main/profile/Here.png" />
